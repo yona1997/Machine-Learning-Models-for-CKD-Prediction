@@ -40,21 +40,6 @@ Through rigorous model comparison, the analysis identified the most effective mo
 
 This work highlights the importance of machine learning in tackling public health challenges like CKD, which remains underdiagnosed globally. By leveraging supervised learning techniques, this project shows the potential to enhance early detection and preventive measures.
 
-## How to Run the Project
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/ckd-prediction.git
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the notebook or script:
-    ```bash
-    python ckd_prediction.py
-    ```
-
 ## Future Work
 
 - Implementing advanced models such as XGBoost and ensemble methods.
